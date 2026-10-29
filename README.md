@@ -1,4 +1,3 @@
-
 # Complyance PSE — Assignment 1 candidate packet
 
 Version 1.0. Start with the concise `Assignment_1_Brief.docx` or `Assignment_1_Brief.md` in the distributed ZIP. Read `SPECIFICATION.md` before coding for the complete CLI, validation, scheduling and output contract. These files are packaged beside this README when exported.
